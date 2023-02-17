@@ -182,4 +182,4 @@ if (window.location.pathname === '/notes') {
 
 getAndRenderNotes();
 
-module.exports = app;
+// module.exports = app;
