@@ -6,7 +6,7 @@ This project is a website that allows you to save notes using front-end and back
 
 ## Installation
 
-To run the website simply follow the link provided - <link src="https://note-taker-de.herokuapp.com/">
+To run the website simply follow the link provided - [Webpage Link](https://note-taker-de.herokuapp.com/)
 
 ## Usage
 
